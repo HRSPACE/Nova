@@ -1,8 +1,8 @@
 # Nova - The Highrise Robot
 
-[![Python](https://shields.io/badge/Python-3.10-blue)](https://pypi.org/project/markitdown/)
+[![Python](https://shields.io/badge/Python-v3.10.0-blue)](https://www.python.org/downloads/release/python-3100)
 ![Launched](https://img.shields.io/badge/Launched-874_Until_Now-green)
-![License](https://img.shields.io/badge/License-GPL_v3.0-yellow)
+[![License](https://img.shields.io/badge/License-GPL_v3.0-yellow)](https://github.com/HRSPACE/Nova/blob/main/LICENSE)
 [![Built by Highrise Space Project Team](https://img.shields.io/badge/Built_by-Highrise_Space_Project_Team-purple)](https://github.com/HRSPACE)
 
 > [!TIP]  
